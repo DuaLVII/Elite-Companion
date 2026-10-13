@@ -5,6 +5,9 @@ It reads the game's own journal files — no memory hacking, no API keys — so 
 
 Run it on a second monitor, or switch to **overlay mode** to float it on top of the game.
 
+<img width="1919" height="1030" alt="image" src="https://github.com/user-attachments/assets/0137274c-171f-4c2c-9c5e-c26be1f9c4b3" />
+
+
 ## What it shows
 
 | Panel | Data |
