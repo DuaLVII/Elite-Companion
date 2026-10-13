@@ -23,6 +23,8 @@ Run it on a second monitor, or switch to **overlay mode** to float it on top of 
 | Header | Big at-a-glance strip: system name, commander, station/body, flight mode, ship, fuel & hull, clock and session time |
 | Factions | Every minor faction in the system: influence (bar + %), change since yesterday, states (active / pending / recovering), government, happiness, **your reputation**, the controlling faction (♛), wars and elections, Powerplay, and an influence-history graph |
 | Ship's log | A running feed of jumps, docking, scans, bounties, trades, missions, interdictions, player messages |
+| And More | Any data that can be seen from the ED Journals I have tried to add |
+| Addon Modules | Custom modules can be made currently using JS but may change in future... |
 
 ### Notifications
 
