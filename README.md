@@ -1,5 +1,7 @@
 # Elite Companion
 
+Downloads @ [https://github.com/DuaLVII/Elite-Companion/releases](https://github.com/DuaLVII/Elite-Companion/releases)
+
 A live companion display for **Elite Dangerous**, built with C# / WPF (.NET 10).
 It reads the game's own journal files — no memory hacking, no API keys — so it's fully allowed by Frontier.
 
